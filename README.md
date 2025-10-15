@@ -50,20 +50,3 @@ The device distribution reveals a strong preference for mobile posting, with iPh
 ![Correlation Matrix](correlation_matrix.png)
 
 Strong positive correlation (0.89) between favorites and retweets, indicating that popular tweets tend to perform well across both metrics. Text length shows weak correlation with engagement, suggesting content quality matters more than length.
-
-## Data Processing
-
-The analysis includes comprehensive data cleaning:
-- URL removal
-- Username and hashtag normalization
-- Punctuation removal
-- Whitespace normalization
-- Removal of empty tweets after preprocessing
-
-## Technologies Used
-
-- Python 3.x
-- pandas
-- matplotlib
-- seaborn
-- Jupyter Notebook
