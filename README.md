@@ -46,7 +46,6 @@ A data analysis project examining tweet patterns, engagement metrics, and postin
 The device distribution reveals a strong preference for mobile posting, with iPhone being the dominant platform.
 
 ### Correlations
-
 ![Correlation Matrix](correlation_matrix.png)
 
 Strong positive correlation (0.89) between favorites and retweets, indicating that popular tweets tend to perform well across both metrics. Text length shows weak correlation with engagement, suggesting content quality matters more than length.
