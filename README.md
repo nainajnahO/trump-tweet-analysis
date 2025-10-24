@@ -1,25 +1,22 @@
 # Trump Tweet Analysis
 
-A data analysis project examining tweet patterns, engagement metrics, and posting behavior from a dataset of 56,571
-tweets.
+Analyzing tweet patterns, engagement metrics, and posting behavior from a dataset of 56,571 tweets by Donald
+J. Trump.
 
 ## Table of Contents
 
 - [Temporal Analysis of Tweet Clusters](#temporal-analysis-of-tweet-clusters)
 - [Initial Overview of Dataset](#initial-overview-of-dataset)
 
-
 ## Temporal Analysis of Tweet Clusters
 
-This section presents the visualizations generated from the cluster analysis of Trump's tweets.
-
-### Labeling of Clusters
-The clusters have manually been assigned lables/titels based on their keywords (top TF-IDF terms).
+The table below presents the identified tweet clusters and corresponding top keywords (based on
+TF-IDF scores). Each cluster has been manually assigned a descriptive topic label based on these keywords.
 
 ![Cluster 9](plots/6.svg)
 
-
 ### Analysis
+
 **Note on Interpretation**: The temporal patterns observed in these clusters show correlations between tweet topics and
 time periods. However, correlation does not necessarily imply causation. For example, while we observe a spike in
 Trump's tweets about Obama during Obama's presidential campaign, this spike may not be directly caused by the campaign
